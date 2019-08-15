@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chat Reader</string>
+    <string name="write_a_message">Write a chatMessageData</string>
+    <string name="placeholder_message">Placeholder chatMessageData</string>
+    <string name="place_holder_friends_name">Friends Name</string>
+    <string name="place_holder_their_message">This is a long chatMessageData that should probably wrap.</string>
+</resources>
